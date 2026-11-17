@@ -1,0 +1,7 @@
+# Auto-push utility scripts and logs
+auto_push.ps1
+auto_push.vbs
+start_autopush.bat
+stop_autopush.bat
+status_autopush.bat
+*.log
