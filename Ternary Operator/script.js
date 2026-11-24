@@ -1,5 +1,5 @@
 
-
+Ternary---------
 
 var age=20;
 var drive;
