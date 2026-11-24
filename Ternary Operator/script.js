@@ -4,5 +4,5 @@ var drive;
 if(age>=18){
     alert("you can drive");
 }else{
-    ("you can't drive ok)
+    ("you can't drive ok);
 }
