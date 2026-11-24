@@ -4,6 +4,6 @@
 var age=20;
 var drive= age>=18 ? 'yes you can deive'
                  : 'Sorry you cant drive'; 
-alert("drive");
+alert(drive);
     
  
