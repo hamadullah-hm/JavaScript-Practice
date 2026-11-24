@@ -1,4 +1,4 @@
 var age=19;
 var drive;
 
-if
+if(age>=18)
