@@ -6,3 +6,4 @@ if(age>=18){
 }else{
     alert("you cant drive ok);
 }
+ 
