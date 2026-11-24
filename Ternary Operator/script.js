@@ -2,5 +2,5 @@
 //Ternary--Operator--Like a //
 
 var age=20;
-var drive= age
+var drive= age>=18 ?
  
