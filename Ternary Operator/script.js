@@ -1,5 +1,5 @@
 
-Ternary---------Operator//
+//Ternary--Operator//
 
 var age=20;
 var drive;
